@@ -2,12 +2,12 @@
 // Copyright (C) 2022 Kristoffer A. Wright
 
 /**
- * operator.h
+ * PY_operator.h
  * 
  * Functions for Python operators
 */
 
-#include "value.h"
+#include "PY_value.h"
 
 /*
 ================================================================================

@@ -2,12 +2,12 @@
 // Copyright (C) 2022 Kristoffer A. Wright
 
 /**
- * globalerr.h
+ * PY_globalerr.h
  * 
  * Defines global error handling operations.
 */
 
-#include "value.h"
+#include "PY_value.h"
 
 /*
 ================================================================================

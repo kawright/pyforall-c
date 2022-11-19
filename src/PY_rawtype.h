@@ -2,12 +2,12 @@
 // Copyright (C) 2022 Kristoffer A. Wright
 
 /**
- * rawtype.h
+ * PY_rawtype.h
  * 
  * Defines an interface between C types and Python types.
 */
 
-#include "value.h"
+#include "PY_value.h"
 
 
 /*

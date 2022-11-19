@@ -2,12 +2,12 @@
 // Copyright (C) 2022 Kristoffer A. Wright
 
 /**
- * str.h
+ * PY_str.h
  * 
  * Defines methods for `str` instances.
 */
 
-#include "value.h"
+#include "PY_value.h"
 
 PY_Value PY_str_capitalize(
     PY_Value self);

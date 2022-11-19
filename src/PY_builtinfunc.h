@@ -2,12 +2,12 @@
 // Copyright (C) 2022 Kristoffer A. Wright
 
 /**
- * builtin.h
+ * PY_builtinfunc.h
  * 
  * Defines built-in functions.
 */
 
-#include "value.h"
+#include "PY_value.h"
 
 PY_Value PY_builtin_abs(
     PY_Value x);
@@ -63,4 +63,4 @@ PY_Value PY_builtin_delattr(
     PY_Value object,
     PY_Value name);
 
-// TODO Complete builtin.h
+// TODO Complete PY_builtin.h

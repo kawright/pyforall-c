@@ -2,7 +2,7 @@
 // Copyright (C) 2022 Kristoffer A. Wright
 
 /**
- * rawtype.h
+ * PY_value.h
  * 
  * Defines an interface for raw Python values.
 */

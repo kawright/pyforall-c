@@ -1,0 +1,30 @@
+v0.0.2 - 2022-19-10
+
+    - Added CHANGELOG.txt
+    - Renamed builtin.h to PY_builtinfunc.h
+    - Renamed exception.h to PY_Exception.h
+    - Renamed globalerr.h to PY_globalerr.h
+    - Renamed operator.h to PY_operator.h
+    - Renamed rawtype.h to PY_rawtype.h
+    - Renamed str.h to PY_str.h
+    - Renamed value.h to PY_value.h
+    - Added PY_builtinconst.h
+    - Added PY_bytearray.h
+    - Added PY_bytes.h
+    - Added PY_float.h
+    - Added PY_frozenset.h
+    - Added PY_int.h
+    - Added PY_list.h
+    - Added PY_range.h
+    - Added PY_set.h
+    - Added PY_tuple.h
+
+v0.0.1 - 2022-19-10
+
+    - Added builtin.h
+    - Added exception.h
+    - Added globalerr.h
+    - Added operator.h
+    - Added rawtype.h
+    - Added str.h
+    - Added value.h

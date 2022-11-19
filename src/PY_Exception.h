@@ -2,12 +2,12 @@
 // Copyright (C) 2022 Kristoffer A. Wright
 
 /**
- * exception.h
+ * PY_Exception.h
  * 
  * Defines an interface for Python exceptions.
 */
 
-#include "rawtype.h"
+#include "PY_rawtype.h"
 
 /*
 ================================================================================
